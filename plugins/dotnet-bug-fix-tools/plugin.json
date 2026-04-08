@@ -1,0 +1,14 @@
+{
+  "name": "dotnet-bug-fix-tools",
+  "version": "1.0.0",
+  "description": "GitHub Copilot customizations for creating and testing bug fixes in .NET solutions.",
+  "author": {
+    "name": "Mike Rousos",
+    "email": "mjrousos@github.com",
+    "url": "https://github.com/mjrousos"
+  },
+  "license": "MIT",
+  "keywords": ["bug-fix", "dotnet"],
+  "agents": ["agents/"],
+  "skills": ["skills/"]
+}

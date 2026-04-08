@@ -1,0 +1,19 @@
+{
+  "name": "test-marketplace",
+  "owner": {
+    "name": "Mike Rousos",
+    "email": "mjrousos@github.com"
+  },
+  "metadata": {
+    "description": "A test marketplace for demonstrating GitHub Copilot plugins.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "dotnet-bug-fix-tools",
+      "description": "GitHub Copilot customizations for creating and testing bug fixes in .NET solutions.",
+      "version": "1.0.0",
+      "source": "./plugins/dotnet-bug-fix-tools"
+    }
+  ]
+}
