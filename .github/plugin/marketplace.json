@@ -12,7 +12,7 @@
     {
       "name": "dotnet-bug-fix-tools",
       "description": "GitHub Copilot customizations for creating and testing bug fixes in .NET solutions.",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "source": "./plugins/dotnet-bug-fix-tools"
     }
   ]
